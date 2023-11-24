@@ -1,0 +1,30 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#log{
+    background-image: url(img/fond-filaire-abstrait-degrade_23-2149009905.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#forma{
+   
+    background-color: rgba(17, 18, 18, 0.589);
+    
+}
+
+#navbar{
+    background-color: rgb(61, 59, 121);
+}
+#adpage{
+    height: 100vh;
+    background-color: rgb(173, 213, 214);
+}
+
+#navlist{
+    background-color: rgb(59, 32, 85);
+}
